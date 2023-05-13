@@ -1,0 +1,12 @@
+def numeros_impares(numero)
+  impares = []
+  (1..numero).step(2) do |n|
+    impares << n
+  end
+  impares
+end
+
+
+numero = 9
+resultado = numeros_impares(numero)
+puts resultado.inspect
