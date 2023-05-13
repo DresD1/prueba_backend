@@ -69,6 +69,6 @@ $ npm install
    
 ## 6. Nomenclatura
 
-En el siguiente archivo veremos la nomenclatura estandar que se deberá adoptar el equipo de desarrollo para poder así darle inicio al proyecto.
+En el siguiente archivo veremos la nomenclatura estándar que se deberá adoptar el equipo de desarrollo para poder así darle inicio al proyecto.
    https://docs.google.com/document/d/1Gxug1AhljfsFgY9bl2snuOH2CstujiWu/edit?usp=sharing&ouid=117618261620868373826&rtpof=true&sd=true
 
