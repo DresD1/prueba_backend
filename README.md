@@ -1,4 +1,4 @@
-# prueba_backend
+# Prueba Full Stack con enfoque al Back-end
  
 Versión de node 16.15.1!
 
@@ -64,4 +64,11 @@ $ npm install
    Patrones de diseño:
    
    •	MVC (Modelo-Vista-Controlador): Se define una arquitectura de Modelo-Vista-Controlador como diseño de la plataforma, esto se debe a la facilidad de entendimiento bajo esta arquitectura de desarrollo, y a la forma de relacionar los diferentes aspectos del proyecto (Back-end, Front-end, DB).
+   
+   
+   
+## 6. Nomenclatura
+
+En el siguiente archivo veremos la nomenclatura estandar que se deberá adoptar el equipo de desarrollo para poder así darle inicio al proyecto.
+   https://docs.google.com/document/d/1Gxug1AhljfsFgY9bl2snuOH2CstujiWu/edit?usp=sharing&ouid=117618261620868373826&rtpof=true&sd=true
 
