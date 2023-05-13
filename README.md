@@ -21,6 +21,8 @@ $ npm install
    En el archivo "oddNumbers.js" se encuentra el código solicitado para la busqueda de números impares desde 0 hasta un valor suministrado como variable. Este archivo, al igual que el anterior, fue desarrollado para recibir variables en entorno de ejecución, y siendo utilizado de la siguiente forma: "node oddNumbers.js arg1"
    
    Nota: El programa solo funciona con 1 argumento, y al intentar suministrar más de uno (1), el programa imprime en consola una "alerta". De igual forma si no se le suministra ningun argumento.
+   
+   Nota: El archivo oddOnRuby es el código para resolver este problema, pero usando el lenguaje de programación Ruby.
 
 ## 4. Modelo de la base de datos
 
