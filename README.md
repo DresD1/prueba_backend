@@ -25,7 +25,7 @@ $ npm install
 ## 4. Modelo de la base de datos
 
    Tenemos el siguiente modelo de base de datos
-   ![image](https://github.com/DresD1/prueba_backend/assets/106494734/8dcb0e67-13eb-4aff-8ae9-7a843b180a28)
+   ![image](https://github.com/DresD1/prueba_backend/image.png)
    
    donde la tabla "users" representa todos los usuarios que ingresarán a la plataforma, categorizados en diferentes tipos de usuarios tales como: normal, autor, colaborador. A su vez manejamos otros datos que pueden ser requeridos una vez el tipo del usuario cambie.
    
